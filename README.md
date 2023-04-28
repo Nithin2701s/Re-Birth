@@ -24,6 +24,9 @@ Instructions for the developer who wants to run the website in their local machi
 1. Download the zip file
 2. Extract the folder and run in it your local machine.
 
+
+
+
 How to run the code
 
 1.Enter command 'npm start' in your vscode terminal.

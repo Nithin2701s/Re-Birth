@@ -26,6 +26,6 @@ Instructions for the developer who wants to run the website in their local machi
 
 How to run the code
 
-1.Enter command 'npm start' in your vscode terminal
-2.In your browser Enter url:'localhost:8000'
-3.Follow the instructions for user/customer
+1.Enter command 'npm start' in your vscode terminal.
+2.In your browser Enter url:'localhost:8000'.
+3.Follow the instructions for user/customer.
